@@ -1,5 +1,7 @@
 # Fashion Ethique : Optimisation tout en respectant les normes éthiques et environnementales
 
+> 🇬🇧 **English summary:** Study of the fashion industry: how to optimize product strategy while meeting ethical and environmental standards. Python analysis and Power BI dashboards.
+
 ## I. Introduction
 
 L'industrie de la mode joue un rôle majeur dans notre société, mais elle est confrontée à des défis significatifs en matière d'éthique et de durabilité. Ce projet vise à explorer comment les entreprises de l'industrie de la mode peuvent optimiser leur production tout en respectant les normes éthiques et en minimisant leur impact sur l'environnement. À travers l'analyse de données, nous avons cherché à identifier des indicateurs clés tels que les meilleures ventes de vêtements, les prix en fonction de différents critères, la gestion des stocks, et les profils des consommateurs.
